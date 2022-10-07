@@ -1,0 +1,44 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: white;
+}
+body {
+    background-color: antiquewhite;
+    height: 100%;
+    widht: 100%
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.divlogoct {
+    display: flex;
+    justify-content: center;
+}
+.logoct {
+    margin: 5px;
+    height: 4vh;
+}
+.memorialKamikaze {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.kamikaze {
+    justify-items: center;
+    margin: 10px;
+    height: auto;   
+    width: 7vw;
+}
+.ano {
+    background-color: white;
+    margin: 20px 0;
+}
+.icon {
+    
+}
